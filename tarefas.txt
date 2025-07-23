@@ -1,0 +1,3 @@
+ligar ao medico||Média||True
+hj||Alta||True
+baixa||Baixa||True
